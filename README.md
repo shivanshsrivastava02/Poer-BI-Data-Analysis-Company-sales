@@ -1,1 +1,1 @@
-# Poer-BI-Data-Analysis-Company-sales
+# Power-BI-Data-Analysis-Company-sales
